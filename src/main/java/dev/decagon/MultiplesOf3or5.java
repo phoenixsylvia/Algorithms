@@ -1,6 +1,6 @@
 package dev.decagon;
 
-public class MultiolesOf3or5 {
+public class MultiplesOf3or5 {
     public int solution(int number) {
         //TODO: Code stuff here
         int sum = 0;
